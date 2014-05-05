@@ -12,7 +12,7 @@ Dependency:
 
 Usage:
 
-	* Press c when the code under selected in visual mode with v
+	* Press v when the code under selected in visual mode with v
 
 TODO:
 
